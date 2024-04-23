@@ -1,4 +1,4 @@
-# GEO499-Final-Project
+# GEO409-Final-Project
 Three separate ways of visualizing maps using the same data sources. 
 
 ## 1) City of Louisville General Landmarks: 2 Differential Areas
