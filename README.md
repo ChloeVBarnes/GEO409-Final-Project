@@ -12,9 +12,12 @@ Cesium Ion Interactive Map: https://ion.cesium.com/stories/viewer/?id=ea183a30-9
 ![CesiumIonScreenshot.png](CesiumIonScreenshot.png)
 
 ## 2) Daily Solar Exposure in Downtown Louisville
+This static map is representing data for a guide to solar mapping installations. Each tier is from a different time of day, with the sun at a different angle in the sky. Since the sun rise east to west, we can see that in each separate map. From this, one can infer which spots / buildig rooftops / open areas, would be appropriate to install solar panels. 
+
 ![SolarTiersLayout.jpg](SolarTiersLayout.jpg)
 
 ## 3) City of Louisville Fly Through Animation
+This animation is made directly on ArcGIS Pro, and then upoladed to Youtube for viewing. It flies around the city and focuses on the downtown area. The skyline is easily viewable here, and the main aspect of the 3D data to show off.
 
 ### Youtube Link
 URL: https://www.youtube.com/watch?v=M5VHKLuKy4s
