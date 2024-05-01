@@ -16,7 +16,8 @@ Cesium Ion Interactive Map: https://ion.cesium.com/stories/viewer/?id=ea183a30-9
 
 ## 3) City of Louisville Fly Through Animation
 
-### Youtube URL
+### Youtube Link
+URL: https://www.youtube.com/watch?v=M5VHKLuKy4s
 
 ### Screenshot of Youtube Video
-
+![LVilleYTScreesnhot.png](LVilleYTScreenshot.png)
