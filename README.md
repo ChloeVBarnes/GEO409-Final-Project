@@ -11,13 +11,8 @@ Cesium Ion Interactive Map: https://ion.cesium.com/stories/viewer/?id=ea183a30-9
 ### Screenshot of Cesium Ion Presentation
 ![CesiumIonScreenshot.png](CesiumIonScreenshot.png)
 
-## 2a) Solar Map - Relative Sunlight Exposure in the City of Louisville
-![RelativeSunlightExposure.jpg](RelativeSunlightExposure.jpg)
-This map was created for a geography capstone project, and uses the same data as the first point cloud for downtown Louisville. I decided to include it because it serves as a resource to better comprehend what exact areas receive the most overall sunlight exposure throughout each day, and this can decipher what areas work best to install solar panels on building rooftops.
+## 2) Daily Solar Exposure in Downtown Louisville
 
-## 2b) Zoning Map 2024 - Map to Reference Types of Land Use and Development
-![JeffersonCountyZoning.jpg](JeffersonCountyZoning.jpg)
-This map serves as a reference to the map above, in case anyone is confused about what the area exactly covers, and what specific buildings and landmarks are included in the solar map. 
 
 ## 3) City of Louisville Fly Through Animation
 
