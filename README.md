@@ -18,3 +18,5 @@ Cesium Ion Interactive Map: https://ion.cesium.com/stories/viewer/?id=ea183a30-9
 
 ### Youtube URL
 
+### Screenshot of Youtube Video
+
